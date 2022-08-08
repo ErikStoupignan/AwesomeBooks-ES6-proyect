@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified By Erik Stoupignan\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Erik Stoupignan Sánchez Beltrán",
   "license": "ISC"
 }
