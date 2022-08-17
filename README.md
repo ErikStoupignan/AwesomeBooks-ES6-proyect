@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Awesome Books with ES6 - project
-For this project, we are going to make a list where we can add and delete books. Additionally, the generated list of books will be stored in the Local Storage of our browser.
+For this project, we are going to make a list where we can add and delete books.
 
 ## Live Demo
 
